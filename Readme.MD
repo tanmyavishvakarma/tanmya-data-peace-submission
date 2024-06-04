@@ -3,8 +3,6 @@
 ## Setup Instructions
 
 ### Prerequisites
-
-- Python 3.8+
 - pip (Python package installer)
 
 ### Installation
