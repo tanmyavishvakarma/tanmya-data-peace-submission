@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-f&r)0f64r@rij#feao2*pk9tc(%12%0ez(8%2)i45o=wds6g0e
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['tanmya-data-peace-submission.onrender.com', 'localhost']
+ALLOWED_HOSTS = ['tanmya-data-peace-submission.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
